@@ -8,6 +8,7 @@ Mulligan decisions have the greatest impact on your abilitiy to close out and wi
 ## Design
 
 ![SecondSeven](SecondSeven.png)
+![SecondSevenHistory](SecondSevenHistory.png)
 
 ## Key Features
 
